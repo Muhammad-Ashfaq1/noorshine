@@ -2,45 +2,43 @@
 /** Homepage. @package NoorShine */
 get_header();
 $category_cards = array(
-	array( 'Islamic Calligraphy', 'islamic-wall-art', 'Arabic calligraphy for focal walls and quiet corners.' ),
-	array( 'Wall Clocks', 'islamic-wall-clocks', 'Timekeeping concepts shaped with restraint and balance.' ),
-	array( 'Acrylic Wall Art', 'acrylic-wall-decor', 'Layered silhouettes and reflective finishes.' ),
-	array( 'Geometric Panels', 'cnc-geometric-wall-panels', 'Architectural rhythm for contemporary feature walls.' ),
+	array( 'Islamic Calligraphy', 'islamic-wall-art', 'Arabic calligraphy in black, gold and emerald finishes.' ),
+	array( 'Wall Clocks', 'islamic-wall-clocks', 'Clocks with calligraphy, crescent and mosque motifs.' ),
+	array( 'Bismillah & Alhamdulillah', 'bismillah-alhamdulillah-art', 'Horizontal and vertical plaques for entrances and living spaces.' ),
+	array( 'Geometric Wall Art', 'cnc-geometric-wall-panels', 'Open rosette patterns and decorative corner accents.' ),
 );
 $custom_url = noorshine_page_url( 'custom-wall-art' );
 $faq_url = noorshine_page_url( 'faq' );
+$hero_image = get_the_post_thumbnail(
+	get_queried_object_id(),
+	'full',
+	array( 'class' => 'hero__photo', 'loading' => 'eager', 'fetchpriority' => 'high', 'sizes' => '100vw' )
+);
 ?>
 <main id="main-content">
-	<section class="hero">
+	<section class="hero<?php echo $hero_image ? ' hero--photo' : ''; ?>">
 		<div class="container hero__grid">
-			<div class="hero__copy reveal">
-				<p class="eyebrow"><?php esc_html_e( 'Islamic art · Modern craft · Pakistan', 'noorshine' ); ?></p>
+			<div class="hero__copy">
+				<p class="eyebrow"><?php esc_html_e( 'Islamic wall art & décor', 'noorshine' ); ?></p>
 				<h1><?php esc_html_e( 'Illuminate Your Walls with Art', 'noorshine' ); ?></h1>
-				<p class="hero__lede"><?php esc_html_e( 'Original calligraphy, sculptural clocks and personalized décor—developed for serene, beautifully considered homes.', 'noorshine' ); ?></p>
+				<p class="hero__lede"><?php esc_html_e( 'Discover Arabic calligraphy, statement wall clocks and personalized décor for your home.', 'noorshine' ); ?></p>
 				<div class="button-row"><a class="button button--gold" href="<?php echo esc_url( noorshine_shop_url() ); ?>"><?php esc_html_e( 'Explore the collection', 'noorshine' ); ?></a><?php if ( $custom_url ) : ?><a class="text-link" href="<?php echo esc_url( $custom_url ); ?>"><?php esc_html_e( 'Design something personal', 'noorshine' ); ?> <span aria-hidden="true">→</span></a><?php endif; ?></div>
-				<ul class="hero__notes"><li><?php esc_html_e( 'Original concepts', 'noorshine' ); ?></li><li><?php esc_html_e( 'Manual artwork review', 'noorshine' ); ?></li><li><?php esc_html_e( 'Made-to-order planning', 'noorshine' ); ?></li></ul>
-			</div>
-			<div class="hero-art reveal">
-				<?php if ( has_post_thumbnail() ) : ?>
-					<?php the_post_thumbnail( 'large', array( 'loading' => 'eager', 'fetchpriority' => 'high', 'class' => 'hero-art__image' ) ); ?>
-				<?php else : ?>
-					<div class="hero-art__arch" aria-hidden="true"><span class="hero-art__star">✦</span><span class="hero-art__word">Noor</span></div>
-				<?php endif; ?>
 			</div>
 		</div>
+		<?php echo wp_kses_post( $hero_image ); ?>
 	</section>
 
 	<section class="section section--ivory">
 		<div class="container"><div class="section-heading reveal"><h2><?php esc_html_e( 'Shop by collection', 'noorshine' ); ?></h2><?php if ( $collections_url = noorshine_page_url( 'all-collections' ) ) : ?><a class="text-link" href="<?php echo esc_url( $collections_url ); ?>"><?php esc_html_e( 'View all collections', 'noorshine' ); ?> →</a><?php endif; ?></div>
 			<div class="collection-grid">
-			<?php foreach ( $category_cards as $index => $card ) :
+			<?php foreach ( $category_cards as $card ) :
 				$url = noorshine_collection_url( $card[1] );
 				if ( ! $url ) continue;
 				$term = get_term_by( 'slug', $card[1], 'product_cat' );
 				$image = get_term_meta( $term->term_id, 'thumbnail_id', true );
 				?>
 				<a class="collection-card reveal" href="<?php echo esc_url( $url ); ?>">
-					<div class="collection-card__visual collection-card__visual--<?php echo esc_attr( $index + 1 ); ?>"><?php if ( $image ) echo wp_get_attachment_image( $image, 'woocommerce_thumbnail', false, array( 'loading' => 'lazy' ) ); ?></div>
+					<?php if ( $image ) : ?><div class="collection-card__visual"><?php echo wp_get_attachment_image( $image, 'medium_large', false, array( 'loading' => 'lazy', 'alt' => '' ) ); ?></div><?php endif; ?>
 					<div><h3><?php echo esc_html( $card[0] ); ?></h3><p><?php echo esc_html( $card[2] ); ?></p><span class="card-link"><?php esc_html_e( 'Discover', 'noorshine' ); ?> →</span></div>
 				</a>
 			<?php endforeach; ?>
@@ -49,7 +47,7 @@ $faq_url = noorshine_page_url( 'faq' );
 	</section>
 
 	<?php if ( $custom_url ) : ?>
-	<section class="section statement-section"><div class="container statement-grid"><div class="statement-art reveal" aria-hidden="true"><span class="statement-art__ring"></span><span class="statement-art__line"></span></div><div class="reveal"><h2><?php esc_html_e( 'Custom wall art', 'noorshine' ); ?></h2><p><?php esc_html_e( 'Choose a base design, material, finish and size. Preview a name or approved calligraphy before submitting your configuration for production review.', 'noorshine' ); ?></p><a class="button button--dark" href="<?php echo esc_url( $custom_url ); ?>"><?php esc_html_e( 'Open the designer', 'noorshine' ); ?></a></div></div></section>
+	<section class="section statement-section"><div class="container"><div class="statement-copy reveal"><h2><?php esc_html_e( 'Custom wall art', 'noorshine' ); ?></h2><p><?php esc_html_e( 'Choose a base design, material, finish and size. Preview a name or approved calligraphy before submitting your configuration for production review.', 'noorshine' ); ?></p><a class="button button--dark" href="<?php echo esc_url( $custom_url ); ?>"><?php esc_html_e( 'Open the designer', 'noorshine' ); ?></a></div></div></section>
 	<?php endif; ?>
 
 	<?php if ( class_exists( 'WooCommerce' ) ) :

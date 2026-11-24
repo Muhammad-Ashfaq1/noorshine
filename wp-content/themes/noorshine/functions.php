@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'NOORSHINE_THEME_VERSION', '1.0.2' );
+define( 'NOORSHINE_THEME_VERSION', '1.0.3' );
 
 function noorshine_setup() {
 	load_theme_textdomain( 'noorshine', get_template_directory() . '/languages' );

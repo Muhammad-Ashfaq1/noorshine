@@ -5,6 +5,7 @@
   --ivory-deep: #e9e0cf;
   --paper: #fffdf8;
   --gold: #b89452;
+  --gold-text: #76551e;
   --gold-light: #d8bc83;
   --walnut: #684735;
   --muted: #726d63;
@@ -48,7 +49,8 @@ button, input, select, textarea { font: inherit; }
 
 .hero { min-height: 740px; overflow: hidden; background: var(--ivory); }
 .hero__grid { min-height: 740px; display: grid; grid-template-columns: 1fr .9fr; align-items: center; gap: clamp(40px, 8vw, 120px); padding-block: 70px; }
-.eyebrow { margin: 0 0 18px; color: var(--gold); font-size: .69rem; font-weight: 750; letter-spacing: .2em; text-transform: uppercase; }
+.eyebrow { margin: 0 0 18px; color: var(--gold-text); font-size: .69rem; font-weight: 750; letter-spacing: .2em; text-transform: uppercase; }
+.process .eyebrow { color: var(--gold-light); }
 h1, h2, h3, p { margin-top: 0; }
 h1, h2 { font-family: var(--serif); font-weight: 500; letter-spacing: -.035em; }
 h1 { max-width: 720px; margin-bottom: 28px; font-size: clamp(3.2rem, 6.6vw, 6.5rem); line-height: .98; }
@@ -58,8 +60,8 @@ h3 { line-height: 1.25; }
 .button-row { display: flex; align-items: center; flex-wrap: wrap; gap: 27px; }
 .button, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button { display: inline-flex; min-height: 52px; align-items: center; justify-content: center; padding: 0 25px; border: 1px solid transparent; border-radius: 0; font-size: .72rem; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; transition: transform .2s, background .2s, color .2s; }
 .button:hover { transform: translateY(-2px); }
-.button--gold { background: var(--gold); color: #fff; }
-.button--gold:hover { background: #a17d3f; }
+.button--gold { background: var(--gold); color: var(--ink); }
+.button--gold:hover { background: var(--gold-light); }
 .button--dark { background: var(--ink); color: #fff; }
 .text-link { display: inline-block; padding-block: 5px; border-bottom: 1px solid currentColor; font-size: .75rem; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; }
 .hero__notes { display: flex; flex-wrap: wrap; gap: 13px 25px; padding: 0; margin: 45px 0 0; color: var(--muted); font-size: .72rem; list-style: none; }
@@ -93,7 +95,7 @@ h3 { line-height: 1.25; }
 .collection-card > div:last-child { padding: 26px 24px 30px; }
 .collection-card h3 { margin-bottom: 11px; font: 500 1.3rem var(--serif); }
 .collection-card p { min-height: 70px; color: var(--muted); font-size: .78rem; }
-.card-link { color: var(--gold); font-size: .68rem; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; }
+.card-link { color: var(--gold-text); font-size: .68rem; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; }
 
 .statement-section { background: var(--ivory-deep); }
 .statement-grid { display: grid; grid-template-columns: .95fr 1fr; align-items: center; gap: clamp(50px, 10vw, 130px); }
@@ -111,7 +113,7 @@ h3 { line-height: 1.25; }
 .product-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
 .product-card img { width: 100%; aspect-ratio: .88; object-fit: cover; background: var(--ivory); }
 .product-card h3 { margin: 17px 0 5px; font: 500 1.1rem var(--serif); }
-.product-card .price { color: var(--gold); font-size: .8rem; }
+.product-card .price { color: var(--gold-text); font-size: .8rem; }
 
 .process { color: var(--ivory); background: var(--ink); }
 .section-heading--light > p { max-width: 400px; color: rgba(255,255,255,.52); font-size: .76rem; }
@@ -152,7 +154,7 @@ h3 { line-height: 1.25; }
 .woocommerce ul.products li.product { width: auto; margin: 0; list-style: none; }
 .woocommerce ul.products li.product img { width: 100%; aspect-ratio: .88; object-fit: cover; background: var(--ivory); }
 .woocommerce ul.products li.product h2 { margin: 16px 0 7px; font: 500 1.15rem var(--serif); }
-.woocommerce .price { color: var(--gold); }
+.woocommerce .price { color: var(--gold-text); }
 .woocommerce .button { margin-top: 12px; background: var(--ink); color: #fff; }
 .woocommerce div.product { display: grid; grid-template-columns: 1fr 1fr; gap: 70px; }
 .woocommerce div.product .woocommerce-product-gallery, .woocommerce div.product .summary { width: auto; float: none; }

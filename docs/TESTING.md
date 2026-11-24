@@ -4,9 +4,12 @@
 
 - `npm run catalog:validate`
 - `npm run check` when PHP CLI is available
+- `npm test` for HTTPS, write gates and duplicate prevention with mocked REST responses.
+- `wp eval-file /absolute/path/to/tests/wordpress-smoke.php` on a fresh loopback WordPress install with `WP_ENVIRONMENT_TYPE` set to `local`. This creates an unpaid fixture order and tests variation validation, pricing and order metadata.
+- Start the local WordPress server on port 8719 and an isolated headless Chrome with `--remote-debugging-port=8720`. After loading the WordPress fixture, run `node tests/browser-smoke.mjs` with Node 22 or newer. Screenshots are saved in `dist/qa/`.
 - `npm run audit` with both WordPress and WooCommerce credentials
 - `npm run inventory:validate` after draft import
-- Re-run category and product dry runs to confirm they report updates rather than duplicate creates.
+- Re-run category and product dry runs to confirm they preserve matching records and flag conflicts.
 
 ## Storefront
 
@@ -25,7 +28,7 @@
 - Unlisted/tampered option values are rejected server-side.
 - Configuration is visible in cart and stored on the order line.
 - Price adjustments occur only when owner-approved rules are enabled.
-- Quranic/Hadith content cannot be submitted through the auto-approved custom field.
+- Free text requires customer attestation and is stored as a private order customization subject to manual review. Only administrator-confirmed templates should supply sacred text for the preview.
 
 ## Security and reliability
 

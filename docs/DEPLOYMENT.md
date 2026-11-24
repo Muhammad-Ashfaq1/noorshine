@@ -1,16 +1,18 @@
 # Safe deployment runbook
 
-All source is local-only at this point. The Sites workflow influenced the responsive presentation and verification approach, but this is a WordPress/Hostinger deployment—not OpenAI Sites hosting.
+Deploy the existing WordPress theme and Product Designer to Hostinger. Record the staging results and secure explicit owner approval before the production deployment or theme activation.
 
 ## 1. Preflight
 
 1. Complete `BACKUP-ROLLBACK.md` and record the backup timestamp.
 2. Confirm WordPress/PHP compatibility against the current WooCommerce release notes.
-3. Create a dedicated WordPress integration administrator temporarily, then generate an Application Password for it.
-4. Copy `.env.example` to `.env`; enter the Application Password. `.env` is ignored by Git.
-5. Run `npm run audit`. Resolve every failed authenticated check.
+3. Revoke all exposed Application Passwords and WooCommerce keys. Generate new credentials and confirm rotation before authenticating. Use the WordPress login name of the Application Password owner.
+4. Copy `.env.example` to `.env`, set the new values via a local editor, and restrict access with `chmod 600 .env`. Verify with `git check-ignore .env`. Keep production credentials separate from staging and revoke integration credentials when the work is complete.
+5. Run `npm run audit -- --public` for anonymous WordPress discovery. After rotation confirmation, run `npm run audit` for authenticated WordPress and WooCommerce checks.
 
-## 2. Install WooCommerce
+## 2. Verify WooCommerce
+
+The 24 November 2026 public deployment audit detected an active WooCommerce REST v3 namespace. Reuse the existing installation and current Shop, Cart, Checkout and My Account pages. Use the following installation path only if a later audit confirms WooCommerce is inactive or missing.
 
 Preferred methods are the WordPress plugin screen, Hostinger’s authorized workflow, or WP-CLI over SSH. Example after backup:
 
@@ -39,16 +41,16 @@ After backup confirmation:
 npm run store:configure -- --apply --backup-confirmed
 ```
 
-This configures only PKR/Pakistan, account behavior, and explicitly disables COD/bank transfer. It does not invent address, shipping, tax, stock, prices or payment credentials.
+Review the authenticated comparison before approving changes to existing settings. The script preserves an existing Pakistan province, configures PKR and the selected account and inventory flags, and keeps COD and bank transfer disabled. It halts for review if another gateway is enabled. The store address, shipping zones and rates, taxes, per-product stock, prices and payment credentials are configured separately from owner inputs.
 
 ## 4. Install theme and plugin
 
-Upload these directories through SFTP, hPanel File Manager, or a controlled deployment:
+On staging, upload the ZIPs in `dist/` via **Appearance → Themes → Add New → Upload Theme** and **Plugins → Add New Plugin → Upload Plugin**. SFTP and hPanel File Manager can also deploy these directories:
 
 - `wp-content/themes/noorshine`
 - `wp-content/plugins/noorshine-product-designer`
 
-Activate the NoorShine theme and plugin only on staging first. Create menus and assign the Primary and Footer locations. Leave the existing theme installed for rollback.
+Activate both on staging first. Create menus and assign the Primary and Footer locations. Leave the previous theme installed for rollback. If upgrading a previously installed NoorShine 1.0.0, replace the full theme through WordPress’s ZIP replacement so the retired `woocommerce.php` file is removed. A copy-over SFTP upload can leave that file active.
 
 ## 5. Sync drafts
 
@@ -68,16 +70,20 @@ npm run products:import -- --apply --backup-confirmed
 npm run pages:sync -- --apply --backup-confirmed
 ```
 
-The product importer is idempotent by SKU and always sets imported products to `draft` with hidden catalog visibility. Pages are also drafts.
+The importer creates new products as hidden, out-of-stock drafts in groups of five. It preserves existing drafts or published records only when SKU and NoorShine external ID both match. A conflicting identity stops the run before product writes. Existing categories and pages are preserved. Category slug and parent mismatches require review before applying.
+
+If a write times out or returns an unexpected response, inspect the reported SKU or slug in WordPress and rerun the authenticated dry run. The next run reconciles prior successful creations by ID and identity. Use `--offline` for a local-only plan for categories, products, pages or store settings. Offline plans contain no evidence of remote state.
 
 ## 6. WooCommerce pages and settings
 
-- Use WooCommerce’s page installer for Shop, Cart, Checkout and My Account, then confirm those page assignments.
-- Set a static homepage only after the Home draft and theme are approved.
+- Confirm the existing WooCommerce page assignments. Use the WooCommerce page installer only for assignments found to be missing.
+- After the Home page is approved and published, select **Settings → Reading → Your homepage displays → A static page → Home**. Set a featured image only when approved original art is available.
 - Add the legal store address and email.
 - Configure owner-approved shipping zones/rates and professional tax advice.
 - Keep all payment methods disabled until sandbox/test credentials and checkout testing are complete.
 - Exclude Cart, Checkout, My Account and WooCommerce session cookies from Hostinger/full-page caching.
+- Review the authenticated plugin inventory for Yoast, Rank Math or another SEO provider. Keep one provider. If one is active, map the draft catalog SEO fields to that provider before publishing.
+- Verify the active sitemap and canonical URLs on staging. On production, verify domain ownership in Google Search Console and submit the active sitemap after launch approval.
 
 ## 7. Launch gate
 

@@ -96,15 +96,26 @@ function noorshine_seo_plugin_active() {
 function noorshine_search_metadata() {
 	if ( noorshine_seo_plugin_active() ) return;
 	$description = '';
+	$canonical   = '';
 	if ( is_front_page() ) {
 		$description = __( 'Explore NoorShine Islamic wall art in Pakistan, from Arabic calligraphy and acrylic décor to wall clocks and personalized pieces.', 'noorshine' );
 	} elseif ( is_tax( 'product_cat' ) ) {
 		$description = term_description();
+		$canonical = get_term_link( get_queried_object() );
+	} elseif ( function_exists( 'is_shop' ) && is_shop() ) {
+		$description = __( 'Shop NoorShine wall art, clocks and personalized décor by collection.', 'noorshine' );
+		$canonical = noorshine_shop_url();
 	} elseif ( is_singular( 'product' ) && 'publish' === get_post_status() ) {
 		$description = get_post_meta( get_queried_object_id(), '_noorshine_meta_description', true );
+	} elseif ( is_singular( 'page' ) && has_excerpt() ) {
+		$description = get_the_excerpt();
 	}
 	if ( is_string( $description ) && '' !== $description ) {
 		echo '<meta name="description" content="' . esc_attr( wp_trim_words( wp_strip_all_tags( $description ), 27, '…' ) ) . '">' . "\n";
+	}
+	if ( is_string( $canonical ) && '' !== $canonical && ! is_singular() ) {
+		if ( is_paged() ) $canonical = strtok( get_pagenum_link( get_query_var( 'paged' ), false ), '?' );
+		echo '<link rel="canonical" href="' . esc_url( $canonical ) . '">' . "\n";
 	}
 }
 add_action( 'wp_head', 'noorshine_search_metadata', 5 );

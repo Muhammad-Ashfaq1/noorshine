@@ -32,3 +32,9 @@ The supplied Pyari Walls wall-art URL and the NoorShine site itself were intermi
 5. Use coherent architectural collections and room-use guidance instead of many near-duplicate product pages.
 6. Serve gifting intent with personalization for weddings and housewarmings while preserving a separate manual route for religious commissions.
 
+## Pricing proposal for owner review
+
+Use a separate costing row for each approved material, finish and size combination. Record material including normal waste, cutting time, finishing time and supplies, protective packaging, shipping allowance and allocated overhead. Sum these six inputs for the unit cost. For a proposed gross margin expressed as a fraction of selling price, divide the unit cost by `1 − target gross margin`. Calculate the PKR margin amount as selling price minus unit cost. Check the formula against owner-approved costs, fulfillment assumptions and tax treatment before setting prices.
+
+Record competitor price observations in research only, with merchant, item, size, offer conditions, URL and observation date. Keep NoorShine prices and costs blank while the owner supplies the inputs. The catalog uses the research most directly in its calligraphy pairs, material-led collections, compact clock concepts and personalized gift designs. Product details should address scale, mounting, edge finish, packaging and custom approval using measurements and photos from approved prototypes.
+

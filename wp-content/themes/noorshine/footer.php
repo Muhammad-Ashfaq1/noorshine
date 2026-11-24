@@ -8,6 +8,7 @@
 		<div><h2><?php esc_html_e( 'Explore', 'noorshine' ); ?></h2><?php wp_nav_menu( array( 'theme_location' => 'footer', 'container' => false, 'fallback_cb' => false ) ); ?></div>
 		<?php
 		$support = array_filter( array(
+			__( 'My account', 'noorshine' )        => function_exists( 'wc_get_page_id' ) && wc_get_page_id( 'myaccount' ) > 0 ? wc_get_page_permalink( 'myaccount' ) : '',
 			__( 'Shipping policy', 'noorshine' )   => noorshine_page_url( 'shipping-policy' ),
 			__( 'Returns & refunds', 'noorshine' ) => noorshine_page_url( 'return-refund-policy' ),
 			__( 'FAQ', 'noorshine' )               => noorshine_page_url( 'faq' ),

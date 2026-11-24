@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Islamic Wall Art",
+    "slug": "islamic-wall-art",
+    "parent": null,
+    "description": "Explore original NoorShine Islamic wall art concepts for Pakistani homes, prayer spaces and meaningful gifting. Every calligraphy design remains a draft until its Arabic text and production artwork are manually verified."
+  },
+  {
+    "name": "Ayatul Kursi Wall Art",
+    "slug": "ayatul-kursi-wall-art",
+    "parent": "islamic-wall-art",
+    "description": "Discover proposed Ayatul Kursi wall art in contemporary geometric, circular and architectural compositions. Final Quranic text, dimensions, material specifications and prices require owner approval before publication."
+  },
+  {
+    "name": "Bismillah & Alhamdulillah Art",
+    "slug": "bismillah-alhamdulillah-art",
+    "parent": "islamic-wall-art",
+    "description": "Browse elegant Bismillah and Alhamdulillah wall art concepts designed for entrances, dining areas and reflective interiors, with Arabic script held for scholarly and production verification."
+  },
+  {
+    "name": "Kalma & Shahada Calligraphy",
+    "slug": "kalma-shahada-calligraphy",
+    "parent": "islamic-wall-art",
+    "description": "View original Kalma and Shahada calligraphy layouts proposed in layered, arch and panoramic formats. Religious text and connected letterforms must be approved before any item becomes purchasable."
+  },
+  {
+    "name": "Quranic Surah Wall Art",
+    "slug": "quranic-surah-wall-art",
+    "parent": "islamic-wall-art",
+    "description": "A curated draft collection for selected Quranic surah wall art, planned for verified Arabic sources, careful typography and production-safe fabrication."
+  },
+  {
+    "name": "Allah & Muhammad ﷺ Calligraphy",
+    "slug": "allah-muhammad-calligraphy",
+    "parent": "islamic-wall-art",
+    "description": "Explore balanced paired and single-panel calligraphy concepts honouring the names Allah and Muhammad ﷺ, pending religious, artwork and manufacturing review."
+  },
+  {
+    "name": "Arabic Calligraphy",
+    "slug": "arabic-calligraphy",
+    "parent": "islamic-wall-art",
+    "description": "Modern Arabic calligraphy wall décor concepts shaped for refined Pakistani interiors. Script accuracy, meaning and fabrication bridges are verified before production."
+  },
+  {
+    "name": "Islamic Wall Clocks",
+    "slug": "islamic-wall-clocks",
+    "parent": "islamic-wall-art",
+    "description": "Original Islamic wall clock concepts that combine readable timekeeping with respectful calligraphic composition. Clock movements and all religious artwork remain subject to testing and approval."
+  },
+  {
+    "name": "Modern Wall Clocks",
+    "slug": "modern-wall-clocks",
+    "parent": null,
+    "description": "Minimal and sculptural modern wall clock concepts for lounges, offices and bedrooms, proposed in acrylic, MDF and wood-inspired finishes."
+  },
+  {
+    "name": "Acrylic Wall Décor",
+    "slug": "acrylic-wall-decor",
+    "parent": null,
+    "description": "Contemporary acrylic wall décor concepts using layered silhouettes, mirror-acrylic accents and clean geometric forms. Material thickness and mounting systems are not yet confirmed."
+  },
+  {
+    "name": "Wooden & MDF Wall Art",
+    "slug": "wooden-mdf-wall-art",
+    "parent": null,
+    "description": "Warm wooden and MDF wall art concepts for modern Pakistani interiors, available as proposed natural, walnut, white and black finishes after production testing."
+  },
+  {
+    "name": "CNC Geometric Wall Panels",
+    "slug": "cnc-geometric-wall-panels",
+    "parent": "wooden-mdf-wall-art",
+    "description": "CNC geometric wall panel concepts inspired by Islamic pattern logic and modern architecture, with structural bridges and production tolerances to be validated before sale."
+  },
+  {
+    "name": "Personalized Name Wall Art",
+    "slug": "personalized-name-wall-art",
+    "parent": null,
+    "description": "Personalized name wall art concepts for families, nurseries and gifting. Customers can preview approved non-religious text while every design receives a manual production review."
+  },
+  {
+    "name": "Custom Islamic Calligraphy",
+    "slug": "custom-islamic-calligraphy",
+    "parent": "personalized-name-wall-art",
+    "description": "A request-based service for custom Islamic calligraphy. Quranic, Hadith and devotional text is never auto-approved and requires source, script and production verification."
+  },
+  {
+    "name": "Wedding & Housewarming Gifts",
+    "slug": "wedding-housewarming-gifts",
+    "parent": "personalized-name-wall-art",
+    "description": "Thoughtful personalized wall décor concepts for weddings and new homes, with proposed names, dates and message layouts reviewed before fabrication."
+  },
+  {
+    "name": "Ramadan & Eid Décor",
+    "slug": "ramadan-eid-decor",
+    "parent": "islamic-wall-art",
+    "description": "Seasonal Ramadan and Eid wall décor concepts created for welcoming spaces and family gatherings, with original designs and verified religious content only."
+  }
+]
+

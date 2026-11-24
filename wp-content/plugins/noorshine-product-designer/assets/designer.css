@@ -1,0 +1,24 @@
+.nspd { margin: 35px 0; padding: clamp(24px, 4vw, 46px); color: #171714; background: #f5f0e5; border: 1px solid rgba(23,23,20,.12); }
+.nspd__heading p { margin: 0 0 7px; color: #b89452; font-size: .65rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
+.nspd__heading h2 { margin: 0 0 28px; font: 500 clamp(1.8rem, 3vw, 2.8rem)/1.1 Georgia, serif; }
+.nspd__layout { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(25px, 5vw, 60px); }
+.nspd__preview { position: relative; align-self: start; box-shadow: 0 20px 55px rgba(23,23,20,.12); }
+.nspd__preview svg { display: block; width: 100%; height: auto; }
+.nspd__preview-badge { position: absolute; right: 12px; bottom: 12px; padding: 6px 9px; color: #fff; background: rgba(23,23,20,.82); font-size: .6rem; letter-spacing: .09em; text-transform: uppercase; }
+.nspd__controls { display: grid; gap: 16px; align-content: start; }
+.nspd__controls label { display: grid; gap: 6px; font-size: .72rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.nspd__controls select, .nspd__controls input[type=text] { width: 100%; min-height: 45px; padding: 8px 10px; color: #171714; background: #fff; border: 1px solid rgba(23,23,20,.25); border-radius: 0; }
+.nspd__two { display: grid; grid-template-columns: 1fr 1fr; gap: 13px; }
+.nspd__custom { padding: 14px; background: rgba(255,255,255,.52); }
+.nspd__check { display: flex !important; grid-template-columns: auto 1fr; align-items: start; gap: 8px !important; margin-top: 10px; font-size: .66rem !important; font-weight: 500 !important; letter-spacing: 0 !important; line-height: 1.45; text-transform: none !important; }
+.nspd__estimate { padding: 13px 15px; color: #fff; background: #684735; font-size: .75rem; }
+.nspd__notice { margin: 0; color: #6d675d; font-size: .7rem; line-height: 1.55; }
+.nspd__products { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.nspd__products a { display: grid; gap: 9px; color: inherit; text-decoration: none; }
+.nspd__products img { width: 100%; aspect-ratio: 1; object-fit: cover; background: #eee7da; }
+.nspd__products strong { font: 500 1.05rem Georgia, serif; }
+.nspd__products span { color: #b89452; font-size: .67rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+@media (max-width: 700px) { .nspd__layout { grid-template-columns: 1fr; } }
+@media (max-width: 700px) { .nspd__products { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 430px) { .nspd__two, .nspd__products { grid-template-columns: 1fr; } }
+

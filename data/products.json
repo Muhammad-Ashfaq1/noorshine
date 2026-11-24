@@ -1,0 +1,3294 @@
+[
+  {
+    "external_id": "noorshine-catalog-v1-001",
+    "sku": "NS-001",
+    "name": "Celestial Thuluth Crescent",
+    "slug": "celestial-thuluth-crescent",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "islamic-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Art",
+      "MDF",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A crescent-led Thuluth composition with open negative space for a calm focal wall.",
+    "description": "A crescent-led Thuluth composition with open negative space for a calm focal wall. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Celestial Thuluth Crescent | NoorShine Pakistan",
+      "meta_description": "A crescent-led Thuluth composition with open negative space for a calm focal wall. View the original NoorShine concept, proposed finishes and customization",
+      "focus_keyphrase": "Celestial Thuluth Crescent Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Celestial Thuluth Crescent original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-002",
+    "sku": "NS-002",
+    "name": "Mehrab Noor Calligraphy Panel",
+    "slug": "mehrab-noor-calligraphy-panel",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "arabic-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Arabic Calligraphy",
+      "MDF",
+      "Mirror acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "An architectural arch silhouette framing an original flowing calligraphy layout.",
+    "description": "An architectural arch silhouette framing an original flowing calligraphy layout. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Mirror acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Mehrab Noor Calligraphy Panel | NoorShine Pakistan",
+      "meta_description": "An architectural arch silhouette framing an original flowing calligraphy layout. View the original NoorShine concept, proposed finishes and customization s",
+      "focus_keyphrase": "Mehrab Noor Calligraphy Panel Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Mehrab Noor Calligraphy Panel original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-003",
+    "sku": "NS-003",
+    "name": "Sabr & Shukr Balance Pair",
+    "slug": "sabr-shukr-balance-pair",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "arabic-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Arabic Calligraphy",
+      "Acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A balanced two-piece concept expressing patience and gratitude in a restrained modern form.",
+    "description": "A balanced two-piece concept expressing patience and gratitude in a restrained modern form. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Sabr & Shukr Balance Pair | NoorShine Pakistan",
+      "meta_description": "A balanced two-piece concept expressing patience and gratitude in a restrained modern form. View the original NoorShine concept, proposed finishes and cust",
+      "focus_keyphrase": "Sabr & Shukr Balance Pair Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Sabr & Shukr Balance Pair original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-004",
+    "sku": "NS-004",
+    "name": "Rahma Garden Calligraphy",
+    "slug": "rahma-garden-calligraphy",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "arabic-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Arabic Calligraphy",
+      "Plywood",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A botanical linework concept built around an Arabic expression of mercy, pending script approval.",
+    "description": "A botanical linework concept built around an Arabic expression of mercy, pending script approval. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Rahma Garden Calligraphy | NoorShine Pakistan",
+      "meta_description": "A botanical linework concept built around an Arabic expression of mercy, pending script approval. View the original NoorShine concept, proposed finishes an",
+      "focus_keyphrase": "Rahma Garden Calligraphy Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Rahma Garden Calligraphy original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-005",
+    "sku": "NS-005",
+    "name": "Tawakkul Horizon Triptych",
+    "slug": "tawakkul-horizon-triptych",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "arabic-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Arabic Calligraphy",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A wide three-panel composition with a rising horizon rhythm for lounges and offices.",
+    "description": "A wide three-panel composition with a rising horizon rhythm for lounges and offices. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Tawakkul Horizon Triptych | NoorShine Pakistan",
+      "meta_description": "A wide three-panel composition with a rising horizon rhythm for lounges and offices. View the original NoorShine concept, proposed finishes and customizati",
+      "focus_keyphrase": "Tawakkul Horizon Triptych Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Tawakkul Horizon Triptych original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-006",
+    "sku": "NS-006",
+    "name": "Noor Arch Layered Artwork",
+    "slug": "noor-arch-layered-artwork",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "islamic-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Art",
+      "MDF",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "Layered arches and controlled shadows create depth around a central verified calligraphy insert.",
+    "description": "Layered arches and controlled shadows create depth around a central verified calligraphy insert. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Noor Arch Layered Artwork | NoorShine Pakistan",
+      "meta_description": "Layered arches and controlled shadows create depth around a central verified calligraphy insert. View the original NoorShine concept, proposed finishes and",
+      "focus_keyphrase": "Noor Arch Layered Artwork Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Noor Arch Layered Artwork original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-007",
+    "sku": "NS-007",
+    "name": "Barakah Entryway Medallion",
+    "slug": "barakah-entryway-medallion",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "arabic-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Arabic Calligraphy",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A compact medallion concept intended as a welcoming entryway accent.",
+    "description": "A compact medallion concept intended as a welcoming entryway accent. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Barakah Entryway Medallion | NoorShine Pakistan",
+      "meta_description": "A compact medallion concept intended as a welcoming entryway accent. View the original NoorShine concept, proposed finishes and customization status for cu",
+      "focus_keyphrase": "Barakah Entryway Medallion Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Barakah Entryway Medallion original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-008",
+    "sku": "NS-008",
+    "name": "Dua Serenity Vertical Panel",
+    "slug": "dua-serenity-vertical-panel",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "islamic-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Art",
+      "Plywood",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A tall, quiet composition designed for narrow walls and reflective corners.",
+    "description": "A tall, quiet composition designed for narrow walls and reflective corners. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood",
+      "MDF"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Dua Serenity Vertical Panel | NoorShine Pakistan",
+      "meta_description": "A tall, quiet composition designed for narrow walls and reflective corners. View the original NoorShine concept, proposed finishes and customization status",
+      "focus_keyphrase": "Dua Serenity Vertical Panel Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Dua Serenity Vertical Panel original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-009",
+    "sku": "NS-009",
+    "name": "Geometric Kufic Light Panel",
+    "slug": "geometric-kufic-light-panel",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "arabic-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Arabic Calligraphy",
+      "MDF",
+      "Mirror acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A square geometric Kufic-inspired study with production-safe bridges to be validated.",
+    "description": "A square geometric Kufic-inspired study with production-safe bridges to be validated. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Mirror acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Geometric Kufic Light Panel | NoorShine Pakistan",
+      "meta_description": "A square geometric Kufic-inspired study with production-safe bridges to be validated. View the original NoorShine concept, proposed finishes and customizat",
+      "focus_keyphrase": "Geometric Kufic Light Panel Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Geometric Kufic Light Panel original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-010",
+    "sku": "NS-010",
+    "name": "Tasbeeh Rhythm Wall Set",
+    "slug": "tasbeeh-rhythm-wall-set",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-calligraphy",
+    "categories": [
+      "islamic-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Art",
+      "Acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A modular three-piece wall set using repetition and spacing to suggest a contemplative rhythm.",
+    "description": "A modular three-piece wall set using repetition and spacing to suggest a contemplative rhythm. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Tasbeeh Rhythm Wall Set | NoorShine Pakistan",
+      "meta_description": "A modular three-piece wall set using repetition and spacing to suggest a contemplative rhythm. View the original NoorShine concept, proposed finishes and c",
+      "focus_keyphrase": "Tasbeeh Rhythm Wall Set Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Tasbeeh Rhythm Wall Set original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-011",
+    "sku": "NS-011",
+    "name": "Ayatul Kursi Halo Round",
+    "slug": "ayatul-kursi-halo-round",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "quranic-art",
+    "categories": [
+      "ayatul-kursi-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Ayatul Kursi Wall Art",
+      "MDF",
+      "Mirror acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A circular halo composition reserved for fully verified Ayatul Kursi artwork.",
+    "description": "A circular halo composition reserved for fully verified Ayatul Kursi artwork. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Mirror acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Ayatul Kursi Halo Round | NoorShine Pakistan",
+      "meta_description": "A circular halo composition reserved for fully verified Ayatul Kursi artwork. View the original NoorShine concept, proposed finishes and customization stat",
+      "focus_keyphrase": "Ayatul Kursi Halo Round Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Ayatul Kursi Halo Round original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-012",
+    "sku": "NS-012",
+    "name": "Ayatul Kursi Grand Arch",
+    "slug": "ayatul-kursi-grand-arch",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "quranic-art",
+    "categories": [
+      "ayatul-kursi-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Ayatul Kursi Wall Art",
+      "MDF",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A statement arch concept that separates script, border and mounting layers for clarity.",
+    "description": "A statement arch concept that separates script, border and mounting layers for clarity. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Ayatul Kursi Grand Arch | NoorShine Pakistan",
+      "meta_description": "A statement arch concept that separates script, border and mounting layers for clarity. View the original NoorShine concept, proposed finishes and customiz",
+      "focus_keyphrase": "Ayatul Kursi Grand Arch Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Ayatul Kursi Grand Arch original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-013",
+    "sku": "NS-013",
+    "name": "Ayatul Kursi Linear Panorama",
+    "slug": "ayatul-kursi-linear-panorama",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "quranic-art",
+    "categories": [
+      "ayatul-kursi-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Ayatul Kursi Wall Art",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A panoramic proposal for wide feature walls, with readable spacing prioritized over ornament.",
+    "description": "A panoramic proposal for wide feature walls, with readable spacing prioritized over ornament. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Ayatul Kursi Linear Panorama | NoorShine Pakistan",
+      "meta_description": "A panoramic proposal for wide feature walls, with readable spacing prioritized over ornament. View the original NoorShine concept, proposed finishes and cu",
+      "focus_keyphrase": "Ayatul Kursi Linear Panorama Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Ayatul Kursi Linear Panorama original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-014",
+    "sku": "NS-014",
+    "name": "Surah Al-Ikhlas Quiet Square",
+    "slug": "surah-al-ikhlas-quiet-square",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "quranic-art",
+    "categories": [
+      "quranic-surah-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Quranic Surah Wall Art",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A minimal square composition for verified Surah Al-Ikhlas text and restrained geometry.",
+    "description": "A minimal square composition for verified Surah Al-Ikhlas text and restrained geometry. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Surah Al-Ikhlas Quiet Square | NoorShine Pakistan",
+      "meta_description": "A minimal square composition for verified Surah Al-Ikhlas text and restrained geometry. View the original NoorShine concept, proposed finishes and customiz",
+      "focus_keyphrase": "Surah Al-Ikhlas Quiet Square Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Surah Al-Ikhlas Quiet Square original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-015",
+    "sku": "NS-015",
+    "name": "Four Qul Protective Quartet",
+    "slug": "four-qul-protective-quartet",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "quranic-art",
+    "categories": [
+      "quranic-surah-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Quranic Surah Wall Art",
+      "MDF",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A coordinated four-panel concept; every panel remains blocked from publication until text review.",
+    "description": "A coordinated four-panel concept; every panel remains blocked from publication until text review. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Four Qul Protective Quartet | NoorShine Pakistan",
+      "meta_description": "A coordinated four-panel concept; every panel remains blocked from publication until text review. View the original NoorShine concept, proposed finishes an",
+      "focus_keyphrase": "Four Qul Protective Quartet Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Four Qul Protective Quartet original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-016",
+    "sku": "NS-016",
+    "name": "Surah Ar-Rahman Refrain Panel",
+    "slug": "surah-ar-rahman-refrain-panel",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "quranic-art",
+    "categories": [
+      "quranic-surah-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Quranic Surah Wall Art",
+      "Plywood",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A vertical feature panel inspired by the surah’s recurring visual cadence, pending verification.",
+    "description": "A vertical feature panel inspired by the surah’s recurring visual cadence, pending verification. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Surah Ar-Rahman Refrain Panel | NoorShine Pakistan",
+      "meta_description": "A vertical feature panel inspired by the surah’s recurring visual cadence, pending verification. View the original NoorShine concept, proposed finishes and",
+      "focus_keyphrase": "Surah Ar-Rahman Refrain Panel Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Surah Ar-Rahman Refrain Panel original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-017",
+    "sku": "NS-017",
+    "name": "Bismillah Welcome Sweep",
+    "slug": "bismillah-welcome-sweep",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "bismillah-kalma",
+    "categories": [
+      "bismillah-alhamdulillah-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Bismillah & Alhamdulillah Art",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A graceful horizontal Bismillah concept for entryways and dining spaces.",
+    "description": "A graceful horizontal Bismillah concept for entryways and dining spaces. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Bismillah Welcome Sweep | NoorShine Pakistan",
+      "meta_description": "A graceful horizontal Bismillah concept for entryways and dining spaces. View the original NoorShine concept, proposed finishes and customization status fo",
+      "focus_keyphrase": "Bismillah Welcome Sweep Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Bismillah Welcome Sweep original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-018",
+    "sku": "NS-018",
+    "name": "Alhamdulillah Sunburst",
+    "slug": "alhamdulillah-sunburst",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "bismillah-kalma",
+    "categories": [
+      "bismillah-alhamdulillah-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Bismillah & Alhamdulillah Art",
+      "MDF",
+      "Mirror acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A radial design with an uncluttered centre and fine sunburst perimeter.",
+    "description": "A radial design with an uncluttered centre and fine sunburst perimeter. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Mirror acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Alhamdulillah Sunburst | NoorShine Pakistan",
+      "meta_description": "A radial design with an uncluttered centre and fine sunburst perimeter. View the original NoorShine concept, proposed finishes and customization status for",
+      "focus_keyphrase": "Alhamdulillah Sunburst Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Alhamdulillah Sunburst original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-019",
+    "sku": "NS-019",
+    "name": "Bismillah & Alhamdulillah Duo",
+    "slug": "bismillah-alhamdulillah-duo",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "bismillah-kalma",
+    "categories": [
+      "bismillah-alhamdulillah-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Bismillah & Alhamdulillah Art",
+      "MDF",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A coordinated pair with mirrored proportions for balanced room placement.",
+    "description": "A coordinated pair with mirrored proportions for balanced room placement. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Bismillah & Alhamdulillah Duo | NoorShine Pakistan",
+      "meta_description": "A coordinated pair with mirrored proportions for balanced room placement. View the original NoorShine concept, proposed finishes and customization status f",
+      "focus_keyphrase": "Bismillah & Alhamdulillah Duo Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Bismillah & Alhamdulillah Duo original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-020",
+    "sku": "NS-020",
+    "name": "Shahada Horizon Statement",
+    "slug": "shahada-horizon-statement",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "bismillah-kalma",
+    "categories": [
+      "kalma-shahada-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Kalma & Shahada Calligraphy",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A wide Shahada composition planned for high legibility and respectful visual hierarchy.",
+    "description": "A wide Shahada composition planned for high legibility and respectful visual hierarchy. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Shahada Horizon Statement | NoorShine Pakistan",
+      "meta_description": "A wide Shahada composition planned for high legibility and respectful visual hierarchy. View the original NoorShine concept, proposed finishes and customiz",
+      "focus_keyphrase": "Shahada Horizon Statement Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Shahada Horizon Statement original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-021",
+    "sku": "NS-021",
+    "name": "Kalma Tayyaba Arch Set",
+    "slug": "kalma-tayyaba-arch-set",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "bismillah-kalma",
+    "categories": [
+      "kalma-shahada-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Kalma & Shahada Calligraphy",
+      "Acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A three-arch layout with connected visual rhythm and manually verified script.",
+    "description": "A three-arch layout with connected visual rhythm and manually verified script. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Kalma Tayyaba Arch Set | NoorShine Pakistan",
+      "meta_description": "A three-arch layout with connected visual rhythm and manually verified script. View the original NoorShine concept, proposed finishes and customization sta",
+      "focus_keyphrase": "Kalma Tayyaba Arch Set Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Kalma Tayyaba Arch Set original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-022",
+    "sku": "NS-022",
+    "name": "Ayatul Kursi Orbit Clock",
+    "slug": "ayatul-kursi-orbit-clock",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-clock",
+    "categories": [
+      "islamic-wall-clocks"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Clocks",
+      "MDF",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A clock concept with time markers kept visually separate from verified sacred text.",
+    "description": "A clock concept with time markers kept visually separate from verified sacred text. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": "Unverified; owner must approve movement, hand clearance and battery specification.",
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Ayatul Kursi Orbit Clock | NoorShine Pakistan",
+      "meta_description": "A clock concept with time markers kept visually separate from verified sacred text. View the original NoorShine concept, proposed finishes and customizatio",
+      "focus_keyphrase": "Ayatul Kursi Orbit Clock Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Ayatul Kursi Orbit Clock original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-023",
+    "sku": "NS-023",
+    "name": "Bismillah Dawn Wall Clock",
+    "slug": "bismillah-dawn-wall-clock",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-clock",
+    "categories": [
+      "islamic-wall-clocks"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Clocks",
+      "Plywood",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A refined clock face with a sunrise-inspired upper arc and reserved calligraphy zone.",
+    "description": "A refined clock face with a sunrise-inspired upper arc and reserved calligraphy zone. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": "Unverified; owner must approve movement, hand clearance and battery specification.",
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Bismillah Dawn Wall Clock | NoorShine Pakistan",
+      "meta_description": "A refined clock face with a sunrise-inspired upper arc and reserved calligraphy zone. View the original NoorShine concept, proposed finishes and customizat",
+      "focus_keyphrase": "Bismillah Dawn Wall Clock Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Bismillah Dawn Wall Clock original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-024",
+    "sku": "NS-024",
+    "name": "Allah & Muhammad ﷺ Balance Clock",
+    "slug": "allah-muhammad-balance-clock",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-clock",
+    "categories": [
+      "islamic-wall-clocks"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Clocks",
+      "MDF",
+      "Mirror acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "A symmetrical clock proposal with paired calligraphic forms and a quiet central dial.",
+    "description": "A symmetrical clock proposal with paired calligraphic forms and a quiet central dial. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Mirror acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": "Unverified; owner must approve movement, hand clearance and battery specification.",
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Allah & Muhammad ﷺ Balance Clock | NoorShine Pakistan",
+      "meta_description": "A symmetrical clock proposal with paired calligraphic forms and a quiet central dial. View the original NoorShine concept, proposed finishes and customizat",
+      "focus_keyphrase": "Allah & Muhammad ﷺ Balance Clock Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Allah & Muhammad ﷺ Balance Clock original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-025",
+    "sku": "NS-025",
+    "name": "Mehrab Silhouette Prayer Clock",
+    "slug": "mehrab-silhouette-prayer-clock",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-clock",
+    "categories": [
+      "islamic-wall-clocks"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Clocks",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "An arch-shaped clock concept suited to a prayer area, pending movement and artwork tests.",
+    "description": "An arch-shaped clock concept suited to a prayer area, pending movement and artwork tests. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": "Unverified; owner must approve movement, hand clearance and battery specification.",
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Mehrab Silhouette Prayer Clock | NoorShine Pakistan",
+      "meta_description": "An arch-shaped clock concept suited to a prayer area, pending movement and artwork tests. View the original NoorShine concept, proposed finishes and custom",
+      "focus_keyphrase": "Mehrab Silhouette Prayer Clock Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Mehrab Silhouette Prayer Clock original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-026",
+    "sku": "NS-026",
+    "name": "Ramadan Moon Phase Clock",
+    "slug": "ramadan-moon-phase-clock",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "islamic-clock",
+    "categories": [
+      "islamic-wall-clocks"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Islamic Wall Clocks",
+      "Acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A seasonal crescent-inspired clock with non-literal moon-phase geometry.",
+    "description": "A seasonal crescent-inspired clock with non-literal moon-phase geometry. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": true
+    },
+    "clock_movement": "Unverified; owner must approve movement, hand clearance and battery specification.",
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Ramadan Moon Phase Clock | NoorShine Pakistan",
+      "meta_description": "A seasonal crescent-inspired clock with non-literal moon-phase geometry. View the original NoorShine concept, proposed finishes and customization status fo",
+      "focus_keyphrase": "Ramadan Moon Phase Clock Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Ramadan Moon Phase Clock original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-027",
+    "sku": "NS-027",
+    "name": "Walnut Meridian Wall Clock",
+    "slug": "walnut-meridian-wall-clock",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "modern-decor",
+    "categories": [
+      "modern-wall-clocks"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Modern Wall Clocks",
+      "Plywood",
+      "Made to order concept"
+    ],
+    "short_description": "A warm minimalist clock concept with offset markers and a slim visual profile.",
+    "description": "A warm minimalist clock concept with offset markers and a slim visual profile. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": "Unverified; owner must approve movement, hand clearance and battery specification.",
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Walnut Meridian Wall Clock | NoorShine Pakistan",
+      "meta_description": "A warm minimalist clock concept with offset markers and a slim visual profile. View the original NoorShine concept, proposed finishes and customization sta",
+      "focus_keyphrase": "Walnut Meridian Wall Clock Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Walnut Meridian Wall Clock original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-028",
+    "sku": "NS-028",
+    "name": "Champagne Arc Wall Clock",
+    "slug": "champagne-arc-wall-clock",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "modern-decor",
+    "categories": [
+      "modern-wall-clocks"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Modern Wall Clocks",
+      "Acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "Overlapping arcs form a sculptural clock face designed for contemporary living rooms.",
+    "description": "Overlapping arcs form a sculptural clock face designed for contemporary living rooms. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": "Unverified; owner must approve movement, hand clearance and battery specification.",
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Champagne Arc Wall Clock | NoorShine Pakistan",
+      "meta_description": "Overlapping arcs form a sculptural clock face designed for contemporary living rooms. View the original NoorShine concept, proposed finishes and customizat",
+      "focus_keyphrase": "Champagne Arc Wall Clock Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Champagne Arc Wall Clock original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-029",
+    "sku": "NS-029",
+    "name": "Desert Dune Layered Wall Sculpture",
+    "slug": "desert-dune-layered-wall-sculpture",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "modern-decor",
+    "categories": [
+      "acrylic-wall-decor"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Acrylic Wall Décor",
+      "MDF",
+      "Acrylic",
+      "Made to order concept"
+    ],
+    "short_description": "Layered flowing contours create a serene abstract landscape without figurative imagery.",
+    "description": "Layered flowing contours create a serene abstract landscape without figurative imagery. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Desert Dune Layered Wall Sculpture | NoorShine Pakistan",
+      "meta_description": "Layered flowing contours create a serene abstract landscape without figurative imagery. View the original NoorShine concept, proposed finishes and customiz",
+      "focus_keyphrase": "Desert Dune Layered Wall Sculpture Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Desert Dune Layered Wall Sculpture original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-030",
+    "sku": "NS-030",
+    "name": "Mashrabiya Shadow Grid",
+    "slug": "mashrabiya-shadow-grid",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "modern-decor",
+    "categories": [
+      "cnc-geometric-wall-panels"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "CNC Geometric Wall Panels",
+      "MDF",
+      "Plywood",
+      "Made to order concept"
+    ],
+    "short_description": "A modular geometric panel designed to cast changing shadows throughout the day.",
+    "description": "A modular geometric panel designed to cast changing shadows throughout the day. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Plywood"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Mashrabiya Shadow Grid | NoorShine Pakistan",
+      "meta_description": "A modular geometric panel designed to cast changing shadows throughout the day. View the original NoorShine concept, proposed finishes and customization st",
+      "focus_keyphrase": "Mashrabiya Shadow Grid Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Mashrabiya Shadow Grid original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-031",
+    "sku": "NS-031",
+    "name": "Golden Ratio Botanical Panels",
+    "slug": "golden-ratio-botanical-panels",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "modern-decor",
+    "categories": [
+      "acrylic-wall-decor"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Acrylic Wall Décor",
+      "Acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A two-panel botanical abstraction organized with measured arcs and negative space.",
+    "description": "A two-panel botanical abstraction organized with measured arcs and negative space. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Golden Ratio Botanical Panels | NoorShine Pakistan",
+      "meta_description": "A two-panel botanical abstraction organized with measured arcs and negative space. View the original NoorShine concept, proposed finishes and customization",
+      "focus_keyphrase": "Golden Ratio Botanical Panels Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Golden Ratio Botanical Panels original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-032",
+    "sku": "NS-032",
+    "name": "Walnut Eight-Point Star Panel",
+    "slug": "walnut-eight-point-star-panel",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "material-led",
+    "categories": [
+      "wooden-mdf-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Wooden & MDF Wall Art",
+      "Plywood",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A warm star-grid panel that adapts Islamic geometric logic for a modern interior.",
+    "description": "A warm star-grid panel that adapts Islamic geometric logic for a modern interior. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood",
+      "MDF"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Walnut Eight-Point Star Panel | NoorShine Pakistan",
+      "meta_description": "A warm star-grid panel that adapts Islamic geometric logic for a modern interior. View the original NoorShine concept, proposed finishes and customization ",
+      "focus_keyphrase": "Walnut Eight-Point Star Panel Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Walnut Eight-Point Star Panel original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-033",
+    "sku": "NS-033",
+    "name": "Mirror Acrylic Infinity Rosette",
+    "slug": "mirror-acrylic-infinity-rosette",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "material-led",
+    "categories": [
+      "acrylic-wall-decor"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Acrylic Wall Décor",
+      "Mirror acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A reflective rosette concept with nested rings and carefully spaced cut-outs.",
+    "description": "A reflective rosette concept with nested rings and carefully spaced cut-outs. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Mirror acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Mirror Acrylic Infinity Rosette | NoorShine Pakistan",
+      "meta_description": "A reflective rosette concept with nested rings and carefully spaced cut-outs. View the original NoorShine concept, proposed finishes and customization stat",
+      "focus_keyphrase": "Mirror Acrylic Infinity Rosette Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Mirror acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Mirror Acrylic Infinity Rosette original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-034",
+    "sku": "NS-034",
+    "name": "CNC Interlace Triptych",
+    "slug": "cnc-interlace-triptych",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "material-led",
+    "categories": [
+      "cnc-geometric-wall-panels"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "CNC Geometric Wall Panels",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "Three aligned panels form one continuous interlace across a feature wall.",
+    "description": "Three aligned panels form one continuous interlace across a feature wall. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "CNC Interlace Triptych | NoorShine Pakistan",
+      "meta_description": "Three aligned panels form one continuous interlace across a feature wall. View the original NoorShine concept, proposed finishes and customization status f",
+      "focus_keyphrase": "CNC Interlace Triptych Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "CNC Interlace Triptych original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-035",
+    "sku": "NS-035",
+    "name": "Natural Wood Arch Landscape",
+    "slug": "natural-wood-arch-landscape",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "material-led",
+    "categories": [
+      "wooden-mdf-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Wooden & MDF Wall Art",
+      "Plywood",
+      "Made to order concept"
+    ],
+    "short_description": "A layered non-figurative landscape composed from arches, horizon lines and warm grain.",
+    "description": "A layered non-figurative landscape composed from arches, horizon lines and warm grain. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Natural Wood Arch Landscape | NoorShine Pakistan",
+      "meta_description": "A layered non-figurative landscape composed from arches, horizon lines and warm grain. View the original NoorShine concept, proposed finishes and customiza",
+      "focus_keyphrase": "Natural Wood Arch Landscape Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Natural Wood Arch Landscape original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-036",
+    "sku": "NS-036",
+    "name": "Black & Gold Faceted Wall Set",
+    "slug": "black-gold-faceted-wall-set",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "material-led",
+    "categories": [
+      "acrylic-wall-decor"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Acrylic Wall Décor",
+      "Acrylic",
+      "MDF",
+      "Made to order concept"
+    ],
+    "short_description": "A faceted three-piece décor set using matte and reflective surfaces for contrast.",
+    "description": "A faceted three-piece décor set using matte and reflective surfaces for contrast. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": false,
+      "allowed": "Finish and size proposals only until production rules are approved.",
+      "manual_approval_required": false
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Black & Gold Faceted Wall Set | NoorShine Pakistan",
+      "meta_description": "A faceted three-piece décor set using matte and reflective surfaces for contrast. View the original NoorShine concept, proposed finishes and customization ",
+      "focus_keyphrase": "Black & Gold Faceted Wall Set Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Black & Gold Faceted Wall Set original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-037",
+    "sku": "NS-037",
+    "name": "Family Name Heritage Monogram",
+    "slug": "family-name-heritage-monogram",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "personalized",
+    "categories": [
+      "personalized-name-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Personalized Name Wall Art",
+      "MDF",
+      "Acrylic",
+      "Personalized"
+    ],
+    "short_description": "A custom Latin-letter family monogram with an optional establishment year.",
+    "description": "A custom Latin-letter family monogram with an optional establishment year. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": true,
+      "allowed": "Approved non-religious names, dates or short text; religious requests require manual review.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Family Name Heritage Monogram | NoorShine Pakistan",
+      "meta_description": "A custom Latin-letter family monogram with an optional establishment year. View the original NoorShine concept, proposed finishes and customization status ",
+      "focus_keyphrase": "Family Name Heritage Monogram Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Family Name Heritage Monogram original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-038",
+    "sku": "NS-038",
+    "name": "Newlywed Names & Date Arch",
+    "slug": "newlywed-names-date-arch",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "personalized",
+    "categories": [
+      "wedding-housewarming-gifts"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Wedding & Housewarming Gifts",
+      "Mirror acrylic",
+      "MDF",
+      "Personalized"
+    ],
+    "short_description": "A wedding keepsake concept for approved names and date in an architectural frame.",
+    "description": "A wedding keepsake concept for approved names and date in an architectural frame. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Mirror acrylic",
+      "MDF"
+    ],
+    "finishes": [
+      "Matte Black",
+      "Gloss Black",
+      "Gold",
+      "Silver",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": true,
+      "allowed": "Approved non-religious names, dates or short text; religious requests require manual review.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Newlywed Names & Date Arch | NoorShine Pakistan",
+      "meta_description": "A wedding keepsake concept for approved names and date in an architectural frame. View the original NoorShine concept, proposed finishes and customization ",
+      "focus_keyphrase": "Newlywed Names & Date Arch Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Mirror acrylic finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Newlywed Names & Date Arch original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-039",
+    "sku": "NS-039",
+    "name": "Nursery Moon Name Sign",
+    "slug": "nursery-moon-name-sign",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "personalized",
+    "categories": [
+      "personalized-name-wall-art"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Personalized Name Wall Art",
+      "Plywood",
+      "Acrylic",
+      "Personalized"
+    ],
+    "short_description": "A gentle moon-and-stars name sign for non-religious custom text.",
+    "description": "A gentle moon-and-stars name sign for non-religious custom text. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. Final artwork must pass a production review before the product can be published. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "Plywood",
+      "Acrylic"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": true,
+      "allowed": "Approved non-religious names, dates or short text; religious requests require manual review.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Nursery Moon Name Sign | NoorShine Pakistan",
+      "meta_description": "A gentle moon-and-stars name sign for non-religious custom text. View the original NoorShine concept, proposed finishes and customization status for custom",
+      "focus_keyphrase": "Nursery Moon Name Sign Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed Plywood finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Nursery Moon Name Sign original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "not-applicable",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  },
+  {
+    "external_id": "noorshine-catalog-v1-040",
+    "sku": "NS-040",
+    "name": "Bespoke Calligraphy Commission",
+    "slug": "bespoke-calligraphy-commission",
+    "type": "variable",
+    "status": "draft",
+    "catalog_visibility": "hidden",
+    "group": "personalized",
+    "categories": [
+      "custom-islamic-calligraphy"
+    ],
+    "tags": [
+      "NoorShine original concept",
+      "Custom Islamic Calligraphy",
+      "MDF",
+      "Acrylic",
+      "Plywood",
+      "Personalized"
+    ],
+    "short_description": "A request-led design service with mandatory source, script and production approval.",
+    "description": "A request-led design service with mandatory source, script and production approval. This original NoorShine concept is intended for CNC-cut or layered fabrication after material, thickness, mounting and structural constraints are confirmed. The Arabic or religious artwork must be checked against an approved source and manually signed off before production or publication. Size, finish and pricing selections shown in the planning catalog are proposals, not confirmed manufacturing claims.",
+    "materials": [
+      "MDF",
+      "Acrylic",
+      "Plywood"
+    ],
+    "finishes": [
+      "Natural Wood",
+      "Walnut",
+      "Matte Black",
+      "White"
+    ],
+    "sizes": [
+      "12 inches",
+      "18 inches",
+      "24 inches",
+      "30 inches",
+      "36 inches"
+    ],
+    "dimensions": null,
+    "dimensions_note": "Exact width, height, depth and piece spacing are unverified; confirm from production artwork for each selected size.",
+    "weight": null,
+    "care_instructions": "Dust gently with a clean, soft, dry microfibre cloth. Avoid water, sprays, abrasive cleaners, high humidity and prolonged direct sunlight until the selected finish has been tested.",
+    "installation_instructions": "Mounting hardware and wall compatibility are not yet confirmed. Supply an installation guide matched to the final weight, wall type and hanging system before fulfilment.",
+    "customization": {
+      "eligible": true,
+      "allowed": "Approved non-religious names, dates or short text; religious requests require manual review.",
+      "manual_approval_required": true
+    },
+    "clock_movement": null,
+    "manufacturing_cost": null,
+    "selling_price": null,
+    "profit_margin": null,
+    "competitor_reference_price": null,
+    "competitor_source_url": null,
+    "price_status": "awaiting-owner-costing-and-approval",
+    "production_status": "concept-only",
+    "seo": {
+      "title": "Bespoke Calligraphy Commission | NoorShine Pakistan",
+      "meta_description": "A request-led design service with mandatory source, script and production approval. View the original NoorShine concept, proposed finishes and customizatio",
+      "focus_keyphrase": "Bespoke Calligraphy Commission Pakistan"
+    },
+    "images": {
+      "status": "required",
+      "requirements": [
+        "Front-facing product cutout on warm ivory",
+        "Styled room mockup with truthful scale reference",
+        "Close detail of proposed MDF finish",
+        "Installation and packaging reference after verification"
+      ],
+      "alt_text": "Bespoke Calligraphy Commission original NoorShine wall décor concept in a proposed premium finish",
+      "reuse_competitor_images": false
+    },
+    "verification": {
+      "production": "pending",
+      "dimensions": "pending",
+      "weight": "pending",
+      "material_thickness": "pending",
+      "religious_text": "manual-approval-required",
+      "pricing": "pending",
+      "images": "pending"
+    }
+  }
+]

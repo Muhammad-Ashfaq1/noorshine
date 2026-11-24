@@ -5,7 +5,8 @@ import { apiRequest, config, getAll } from './lib/api-client.mjs';
 
 const mode = process.argv[2] ?? 'check';
 if (!['prepare', 'check', 'apply'].includes(mode)) throw new Error('Use prepare, check, or apply.');
-const directory = process.env.NOORSHINE_OWNER_EXPORT_DIR ?? 'dist/owner-catalog';
+const enableCatalogPreview = process.argv.includes('--enable-catalog-preview');
+const directory = process.env.NOORSHINE_OWNER_EXPORT_DIR ?? (mode === 'prepare' ? 'dist/owner-catalog' : 'assets/storefront');
 const hero = {
   slug: 'noorshine-owner-showroom-banner',
   name: 'NoorShine wall art showroom banner',
@@ -19,7 +20,7 @@ const products = (await fs.readFile('data/owner-photo-catalog.tsv', 'utf8')).tri
   const externalId = sku === 'NS-101' ? 'noorshine-owner-photo-pilot-ns-101' : `noorshine-owner-photo-${sku.toLowerCase()}`;
   return { sku, category, source, crop, price, name, summary, description, alt, reference, externalId, slug: `noorshine-${sku.toLowerCase()}-owner-photo` };
 });
-const assets = [hero, ...products.filter(row => row.source)];
+const assets = [hero, ...products];
 const fileFor = asset => path.join(directory, asset.slug + '.webp');
 
 if (mode === 'prepare') {
@@ -27,8 +28,10 @@ if (mode === 'prepare') {
   if (!bannerFile) throw new Error('Supply the clean owner banner image as the third argument.');
   await fs.mkdir(directory, { recursive: true });
   execFileSync('cwebp', ['-quiet', '-q', '88', bannerFile, '-o', fileFor(hero)]);
-  for (const row of products.filter(item => item.source)) {
-    const input = path.join('assets/captured-images', `WhatsApp Image 2026-11-20 at ${row.source}.jpeg`);
+  const sourceDirectory = process.env.NOORSHINE_OWNER_SOURCE_DIR ?? 'assets/captured-images';
+  const photographed = products.filter(item => item.source);
+  for (const row of photographed) {
+    const input = path.join(sourceDirectory, `WhatsApp Image 2026-11-20 at ${row.source}.jpeg`);
     const dimensions = execFileSync('sips', ['-g', 'pixelWidth', '-g', 'pixelHeight', input], { encoding: 'utf8' });
     const [, sourceWidth, sourceHeight] = dimensions.match(/pixelWidth: (\d+)\s+pixelHeight: (\d+)/);
     const [x, y, right, bottom] = row.crop.split(',').map((value, index) =>
@@ -44,7 +47,7 @@ if (mode === 'prepare') {
       '-resize', ...resize, '-q', '89', input, '-o', fileFor(row)
     ]);
   }
-  console.log(`Prepared ${assets.length} WebP files in ${directory}.`);
+  console.log(`Prepared ${photographed.length + 1} WebP files in ${directory}.`);
   process.exit(0);
 }
 
@@ -156,6 +159,9 @@ await inGroups(products, async row => {
       { key: '_noorshine_price_reference', value: row.reference }
     ]
   };
+  if (enableCatalogPreview) {
+    payload.meta_data.push({ key: '_noorshine_catalog_preview', value: 'yes' });
+  }
   if (!existing) {
     Object.assign(payload, {
       sku: row.sku, type: 'simple', status: 'draft', catalog_visibility: 'hidden',
@@ -167,7 +173,8 @@ await inGroups(products, async row => {
   });
   if (data.sku !== row.sku || data.regular_price !== row.price || data.status !== 'draft' ||
       data.catalog_visibility !== 'hidden' || data.images[0]?.id !== image.id ||
-      data.stock_status !== 'outofstock' || !data.description.includes(row.description)) {
+      data.stock_status !== 'outofstock' || !data.description.includes(row.description) ||
+      (enableCatalogPreview && !data.meta_data.some(item => item.key === '_noorshine_catalog_preview' && item.value === 'yes'))) {
     throw new Error(`Unexpected draft readback for ${row.sku}.`);
   }
   console.log(`${row.sku} (#${data.id}) • PKR ${row.price}`);

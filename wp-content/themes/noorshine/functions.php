@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'NOORSHINE_THEME_VERSION', '1.0.3' );
+define( 'NOORSHINE_THEME_VERSION', '1.0.4' );
 
 function noorshine_setup() {
 	load_theme_textdomain( 'noorshine', get_template_directory() . '/languages' );
@@ -65,10 +65,58 @@ function noorshine_woocommerce_wrappers() {
 }
 add_action( 'after_setup_theme', 'noorshine_woocommerce_wrappers', 20 );
 
+function noorshine_catalog_previews() {
+	static $products;
+	if ( isset( $products ) ) {
+		return $products;
+	}
+
+	$products = array();
+	$posts = get_posts(
+		array(
+			'post_type'      => 'product',
+			'post_status'    => 'draft',
+			'posts_per_page' => -1,
+			'meta_key'       => '_noorshine_catalog_preview',
+			'meta_value'     => 'yes',
+			'orderby'        => 'title',
+			'order'          => 'ASC',
+		)
+	);
+	foreach ( $posts as $post ) {
+		$product = wc_get_product( $post->ID );
+		if ( $product && wp_attachment_is_image( $product->get_image_id() ) ) {
+			$products[] = $product;
+		}
+	}
+	return $products;
+}
+
+function noorshine_collection_terms() {
+	$terms = get_terms( array( 'taxonomy' => 'product_cat', 'hide_empty' => false, 'pad_counts' => true ) );
+	if ( is_wp_error( $terms ) ) {
+		return array();
+	}
+
+	$preview_terms = array();
+	foreach ( noorshine_catalog_previews() as $product ) {
+		foreach ( $product->get_category_ids() as $term_id ) {
+			$preview_terms[] = $term_id;
+			$preview_terms = array_merge( $preview_terms, get_ancestors( $term_id, 'product_cat' ) );
+		}
+	}
+	return array_filter(
+		$terms,
+		static function ( $term ) use ( $preview_terms ) {
+			return $term->count > 0 || in_array( $term->term_id, $preview_terms, true );
+		}
+	);
+}
+
 function noorshine_collection_filter() {
 	if ( ! is_shop() && ! is_product_category() ) return;
-	$terms = get_terms( array( 'taxonomy' => 'product_cat', 'hide_empty' => true ) );
-	if ( is_wp_error( $terms ) || ! $terms ) return;
+	$terms = noorshine_collection_terms();
+	if ( ! $terms ) return;
 	?>
 	<nav class="collection-filter" aria-label="<?php esc_attr_e( 'Filter by collection', 'noorshine' ); ?>">
 		<a href="<?php echo esc_url( noorshine_shop_url() ); ?>" <?php if ( is_shop() ) echo 'aria-current="page"'; ?>><?php esc_html_e( 'All products', 'noorshine' ); ?></a>
@@ -80,6 +128,67 @@ function noorshine_collection_filter() {
 	<?php
 }
 add_action( 'woocommerce_before_main_content', 'noorshine_collection_filter', 25 );
+
+function noorshine_collection_shortcode_atts( $atts ) {
+	if ( is_page( 'all-collections' ) && '' === $atts['ids'] ) {
+		$ids = wp_list_pluck( noorshine_collection_terms(), 'term_id' );
+		if ( $ids ) {
+			$atts['ids'] = implode( ',', $ids );
+			$atts['hide_empty'] = 0;
+		}
+	}
+	return $atts;
+}
+add_filter( 'shortcode_atts_product_categories', 'noorshine_collection_shortcode_atts' );
+
+function noorshine_shop_empty_state() {
+	if ( ( ! is_shop() && ! is_product_category() ) || is_search() || is_paged() ||
+		is_filtered() || wc_get_loop_prop( 'is_shortcode' ) ) {
+		wc_no_products_found();
+		return;
+	}
+
+	$products = noorshine_catalog_previews();
+	if ( is_product_category() ) {
+		$term_id  = get_queried_object_id();
+		$children = get_term_children( $term_id, 'product_cat' );
+		$term_ids = is_wp_error( $children ) ? array( $term_id ) : array_merge( array( $term_id ), $children );
+		$products = array_filter(
+			$products,
+			static function ( $product ) use ( $term_ids ) {
+				return (bool) array_intersect( $term_ids, $product->get_category_ids() );
+			}
+		);
+	}
+	if ( ! $products ) {
+		wc_no_products_found();
+		return;
+	}
+	?>
+	<section class="catalog-previews" aria-labelledby="catalog-preview-title">
+		<h2 id="catalog-preview-title"><?php esc_html_e( 'Product previews', 'noorshine' ); ?></h2>
+		<p><?php esc_html_e( 'Prices are estimates. Ordering will open once availability is confirmed.', 'noorshine' ); ?></p>
+		<ul class="product-grid">
+			<?php foreach ( $products as $product ) : ?>
+				<li class="product-card">
+					<?php echo wp_get_attachment_image( $product->get_image_id(), 'medium_large', false, array( 'loading' => 'lazy' ) ); ?>
+					<h3><?php echo esc_html( $product->get_name() ); ?></h3>
+					<p><?php echo esc_html( wp_strip_all_tags( $product->get_short_description() ) ); ?></p>
+					<?php if ( '' !== $product->get_regular_price() ) : ?>
+						<p class="price"><?php echo wp_kses_post( wc_price( $product->get_regular_price() ) ); ?></p>
+					<?php endif; ?>
+				</li>
+			<?php endforeach; ?>
+		</ul>
+	</section>
+	<?php
+}
+
+function noorshine_catalog_preview_hooks() {
+	remove_action( 'woocommerce_no_products_found', 'wc_no_products_found' );
+	add_action( 'woocommerce_no_products_found', 'noorshine_shop_empty_state' );
+}
+add_action( 'after_setup_theme', 'noorshine_catalog_preview_hooks', 20 );
 
 function noorshine_custom_product_title( $title ) {
 	if ( ! is_singular( 'product' ) || noorshine_seo_plugin_active() ) return $title;

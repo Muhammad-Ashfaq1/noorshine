@@ -4,11 +4,12 @@ Production-oriented source for the NoorShine WooCommerce launch:
 
 - `wp-content/themes/noorshine/` — responsive custom WooCommerce theme.
 - `wp-content/plugins/noorshine-product-designer/` — 2D SVG product designer MVP.
-- `data/` — category structure and 40 original draft product concepts.
+- `data/` — category structure, original draft concepts, and photographed catalog descriptions and prices.
+- `assets/storefront/` — optimized owner photos and homepage banner used by the production catalog.
 - `scripts/` — secure, idempotent WordPress/WooCommerce REST automation.
 - `docs/` — audit, research, deployment, backup, testing, and approval notes.
 
-No live write has been performed. Products are always imported as drafts and prices remain unset until owner approval.
+The photographed catalog uses WooCommerce drafts with proposed prices. Items opted into catalog previews appear publicly with ordering closed.
 
 ## Quick start
 
@@ -19,3 +20,8 @@ No live write has been performed. Products are always imported as drafts and pri
 
 See `docs/OWNER-APPROVALS.md` for the decisions still required.
 
+## Photographed catalog
+
+Run `node scripts/owner-photo-catalog.mjs check` to review the live import state. The `apply` mode uses the WebP files in `assets/storefront/`. Add `--enable-catalog-preview` to make the photographed rows eligible for public, non-purchasable previews.
+
+To regenerate crops from archived originals on macOS, point `NOORSHINE_OWNER_SOURCE_DIR` to the recovered `captured-images` directory and run `node scripts/owner-photo-catalog.mjs prepare /path/to/banner.png`. Review the files in `dist/owner-catalog/` before replacing their optimized counterparts.

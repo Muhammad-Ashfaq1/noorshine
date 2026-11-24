@@ -1,0 +1,53 @@
+name: Deploy NoorShine theme
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'wp-content/themes/noorshine/**'
+      - 'scripts/deploy-theme.sh'
+      - '.github/workflows/deploy-theme.yml'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Preview changes or deploy the theme
+        type: choice
+        options: [check, apply]
+        default: check
+
+permissions:
+  contents: read
+
+concurrency:
+  group: noorshine-production-theme
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main' && vars.NOORSHINE_SSH_HOST != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out the theme
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Deploy over SSH
+        env:
+          DEPLOY_MODE: ${{ inputs.mode || 'apply' }}
+          NOORSHINE_SSH_HOST: ${{ vars.NOORSHINE_SSH_HOST }}
+          NOORSHINE_SSH_USER: ${{ vars.NOORSHINE_SSH_USER }}
+          NOORSHINE_SSH_PORT: ${{ vars.NOORSHINE_SSH_PORT }}
+          NOORSHINE_SSH_FINGERPRINT: ${{ vars.NOORSHINE_SSH_FINGERPRINT }}
+          NOORSHINE_DEPLOY_KEY: ${{ secrets.NOORSHINE_DEPLOY_KEY }}
+        run: |
+          test -n "$NOORSHINE_DEPLOY_KEY" || { echo 'Set the NOORSHINE_DEPLOY_KEY repository secret.' >&2; exit 1; }
+          umask 077
+          export NOORSHINE_SSH_KEY_FILE
+          NOORSHINE_SSH_KEY_FILE=$(mktemp)
+          trap 'rm -f -- "$NOORSHINE_SSH_KEY_FILE"' EXIT
+          printf '%s\n' "$NOORSHINE_DEPLOY_KEY" > "$NOORSHINE_SSH_KEY_FILE"
+          unset NOORSHINE_DEPLOY_KEY
+          bash scripts/deploy-theme.sh "$DEPLOY_MODE"

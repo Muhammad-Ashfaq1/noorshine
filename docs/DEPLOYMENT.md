@@ -52,6 +52,26 @@ On staging, upload the ZIPs in `dist/` via **Appearance → Themes → Add New �
 
 Activate both on staging first. Create menus and assign the Primary and Footer locations. Leave the previous theme installed for rollback. If upgrading a previously installed NoorShine 1.0.0, replace the full theme through WordPress’s ZIP replacement so the retired `woocommerce.php` file is removed. A copy-over SFTP upload can leave that file active.
 
+### SSH updates to the installed theme
+
+In Hostinger, open **Websites → NoorShine → Manage → SSH Access**. Enable SSH, install the dedicated deployment public key, and copy the connection details and ED25519 host fingerprint from this screen. The script targets the existing NoorShine theme in the hosting account’s `~/domains/noorshine.pk/public_html`.
+
+Set these repository variables under **GitHub → Settings → Secrets and variables → Actions**. Use the values from the same NoorShine hPanel:
+
+- `NOORSHINE_SSH_USER` and `NOORSHINE_SSH_PORT` from the SSH command.
+- `NOORSHINE_SSH_FINGERPRINT` from the ED25519 host key entry.
+- `NOORSHINE_SSH_HOST` from the SSH command. Set this last to enable the workflow.
+
+Add the matching private key as the repository secret `NOORSHINE_DEPLOY_KEY`. When GitHub CLI is authenticated, you can set it from the Mac without copying the key into a clipboard:
+
+```sh
+gh secret set NOORSHINE_DEPLOY_KEY < ~/.ssh/noorshine-deploy
+```
+
+In **Actions → Deploy NoorShine theme → Run workflow**, run `check` on `main` to review the transfer. Run `apply` to deploy the current theme. Later pushes to `main` that change the theme or its deployment files run automatically. For a local deploy, export the four connection variables and run `bash scripts/deploy-theme.sh check` followed by `bash scripts/deploy-theme.sh apply`. The local script reads `~/.ssh/noorshine-deploy` by default.
+
+An apply run copies the installed theme to the private `~/.noorshine-theme-backups/` directory, syncs theme files over SSH, and compares the live stylesheet with the local source. The command preserves server-only files and scopes the transfer to the theme. Use the backup path printed by the run to restore overwritten theme files if needed.
+
 ## 5. Sync drafts
 
 Run each dry run first:
